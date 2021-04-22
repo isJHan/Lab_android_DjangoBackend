@@ -14,3 +14,8 @@ python == 3.9.2
 
 如果要退出虚拟环境执行`deactivate`
 
+### P.s. 
+1. (在Linux上安装多个python版本CSDN)[https://blog.csdn.net/qq_38208506/article/details/104777516]
+2. 在初始化虚拟环境时, 将python替换为想要创建venv的python版本号(python3以上)
+
+
