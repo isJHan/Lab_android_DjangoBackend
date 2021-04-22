@@ -1,0 +1,5 @@
+# vscode配置文件
+.vscode/
+
+# python虚拟环境配置文件
+venv/
